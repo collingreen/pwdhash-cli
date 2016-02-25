@@ -1,0 +1,31 @@
+{
+  "name": "pwdhash-cli",
+  "version": "0.1.0",
+  "description": "Command line interface for generating PWDHASH password hashes.",
+  "main": "pwdhash.js",
+  "dependencies": {
+    "bluebird": "^3.3.1",
+    "copy-paste": "^1.1.4",
+    "read": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collingreen/pwdhash-cli.git"
+  },
+  "keywords": [
+    "pwdhash",
+    "password",
+    "password",
+    "generator"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/collingreen/pwdhash-cli/issues"
+  },
+  "homepage": "https://github.com/collingreen/pwdhash-cli#readme"
+}
